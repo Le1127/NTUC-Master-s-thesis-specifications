@@ -75,8 +75,7 @@
 3. 授權書
 4. 論文指導教授推荐書
 5. 論文口試委員會審定書
-6. 中文摘要[碩士學位口試辦法.pdf](https://github.com/user-attachments/files/21156109/default.pdf)
-
+6. 中文摘要
 7. 英文摘要
 8. 誌謝或序言
 9. 目錄
