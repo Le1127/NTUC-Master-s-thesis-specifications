@@ -38,7 +38,7 @@
 
 勤益電子碩士班相關法規網站：https://eet.ncut.edu.tw/content.php?key=T9R94981RW
 
-[碩士學位口試辦法.pdf](https://github.com/user-attachments/files/21156106/default.pdf)
+[碩士學位口試辦法.pdf](https://github.com/user-attachments/files/21156257/default.pdf)
 
 [國立勤益科技大學研究生論文指導費、口試費支付標準.pdf](https://github.com/user-attachments/files/21156112/default.pdf)
 
